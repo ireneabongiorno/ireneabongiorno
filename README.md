@@ -9,20 +9,6 @@ I’m ready for a role where I can keep learning, grow my skills, and work with 
 
 <hr>
 
-<h2>About Me</h2>
-👩🏻‍💻 I’m currently learning **React**
-<br/><br/>
-🫶🏻 My favorite project is <a href="https://ireneabongiorno.com/portfolio/web-taylor-swift-outfits-tstet-outfit-generator/" target="_blank">TS Eras Tour Interactive Website</a>
-<br/><br/>
-🔗 All of my projects are available at <a href="https://ireneabongiorno.com" target="_blank">www.ireneabongiorno.com</a><br/><br/>
-📝 I like to write articles on my <a href="https://ireneabongiorno.com/blog" target="_blank">blog</a>
-<br/><br/>
-📫 You can reach me <a href="mailto:ireneabongiorno@gmail.com?subject=Work%20With%20Us/ireneabongiorno" target="_blank" class="btn btn--icon" rel="noopener noreferrer" aria-label="Send an Email">ireneabongiorno@gmail.com</a>
-<br/><br/>
-📄 Download my CV [https://bit.ly/CV_IreneBongiorno_EN]
-
-<hr>
-
 <h2>Languages & Tools:</h2>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" width="auto" height="40px"/>
