@@ -11,8 +11,8 @@ I’m ready for a role where I can keep learning, grow my skills, and work with 
 
 <h2>Languages & Tools</h2>
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,less,javascript,react,bootstrap,tailwind,wordpress" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,astro,vscode,eclipse,ps,illustrator,figma,htmx" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,less,wordpress,bootstrap,tailwind,javascript,react" /><br/>
+  <img src="https://skillicons.dev/icons?i=astro,git,github,vscode,eclipse,ps,illustrator,figma,htmx" />
 </p>
 
 <hr>
