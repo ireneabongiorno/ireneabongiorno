@@ -1,21 +1,47 @@
-<h1 align="center">Hi 👋, I'm Irene Bongiorno</h1>
-- 🌱 I’m currently learning **React**
+<h1>Hi 👋, I'm Irene Bongiorno</h1>
+Known for being proactive and passionate in my work and always paying close attention to details. I thrive on challenges and working under pressure doesn’t intimidate me.
+<br/><br/>
+Over the past 8+ years, I’ve worked alongside cross-functional teams to deliver high-impact digital solutions for renowned clients such as FC Barcelona, McDonald’s and MediaMarkt, consistently enhancing brand visibility and exceeding client expectations.
+<br/><br/>
+I’m ready to take the leap and join a company that offers growth opportunities and works with up-to-date technologies. I’m excited to tackle new projects and creative challenges.
+<br/><br/>
+⁉️ Currently, I am focused on expanding my knowledge in web application development using various JavaScript frameworks, including React and Vue. I want to take advantage of this space to be able to share with you my learning and personal challenges.
 
-- 🤝 My favorite project is [TS Eras Tour Interactive Website](https://ireneabongiorno.com/portfolio/web-taylor-swift-outfits-tstet-outfit-generator/)
+<hr>
 
-- 👨‍💻 All of my projects are available at [www.ireneabongiorno.com](www.ireneabongiorno.com)
+<h2>About Me</h2>
+👩🏻‍💻 I’m currently learning **React**
+<br/><br/>
+🫶🏻 My favorite project is <a href="https://ireneabongiorno.com/portfolio/web-taylor-swift-outfits-tstet-outfit-generator/" target="_blank">TS Eras Tour Interactive Website</a>
+<br/><br/>
+🔗 All of my projects are available at [www.ireneabongiorno.com](www.ireneabongiorno.com)<br/><br/>
+📝 I like to write articles on my blog
+<br/><br/>
+📫 You can reach me <a href="mailto:ireneabongiorno@gmail.com?subject=Work%20With%20Us/ireneabongiorno" target="_blank" class="btn btn--icon" rel="noopener noreferrer" aria-label="Send an Email">ireneabongiorno@gmail.com</a>
+<br/><br/>
+📄 Download my CV [https://bit.ly/CV_IreneBongiorno_EN]
 
-- 📝 I regularly write articles on [www.ireneabongiorno.com/blog](www.ireneabongiorno.com/blog)
+<hr>
 
-- 📫 How to reach me **ireneabongiorno@gmail.com**
-
-- 📄 Know about my experiences [https://bit.ly/CV_IreneBongiorno_EN](https://bit.ly/CV_IreneBongiorno_EN)
-
-<h3 align="left">Connect with me:</h3>
+<h2>Connect with me:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/ireneabongiorno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ireneabongiorno" height="30" width="40" /></a>
-<a href="https://www.behance.net/ireneabongiorno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ireneabongiorno" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ireneabongiorno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ireneabongiorno" height="30" width="auto" /></a>
+<a href="https://www.behance.net/ireneabongiorno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ireneabongiorno" height="30" width="auto" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<hr>
+
+<h2>Languages & Tools:</h2>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" width="auto" height="40px"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" width="auto" height="40px"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass" width="auto" height="40px"/> 
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" width="auto" height="40px"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" width="auto" height="40px"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" width="auto" height="40px"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="git" width="auto" height="40px"/>
+  <img src="https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE" alt="astro" width="auto" height="40px"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="auto" height="40px"/>
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="auto" height="40px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="auto" height="40px"/>
+</p>
