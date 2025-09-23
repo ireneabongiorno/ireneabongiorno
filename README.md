@@ -9,7 +9,7 @@ I’m ready for a role where I can keep learning, grow my skills, and work with 
 
 <hr>
 
-<h2>Languages & Tools:</h2>
+<h2>Languages & Tools</h2>
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,sass,less,javascript,react,bootstrap,tailwind,wordpress" /><br/>
   <img src="https://skillicons.dev/icons?i=git,github,astro,vscode,eclipse,ps,illustrator,figma,htmx" />
@@ -17,9 +17,7 @@ I’m ready for a role where I can keep learning, grow my skills, and work with 
 
 <hr>
 
-<h2>Connect with me:</h2>
+<h2>My latest Project</h2>
 <p>
-  <a href="https://linkedin.com/in/ireneabongiorno" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://www.x.com/ireneabongiorno" target="blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="https://www.behance.net/ireneabongiorno" target="blank"><img src="https://skillicons.dev/icons?i=behance" /></a>
+  <a href="http://ireneabongiorno.com/portfolio/web-taylor-swift-outfits-tstet-outfit-generator/" target="blank"><img src="https://ireneabongiorno.com/img/portfolio/web-taylor-swift-outfits-tstet-outfit-generator/hero.webp" width="300" height="auto" /></a>
 </p>
