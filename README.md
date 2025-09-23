@@ -19,5 +19,5 @@ I’m ready for a role where I can keep learning, grow my skills, and work with 
 
 <h2>My latest Project</h2>
 <p>
-  <a href="http://ireneabongiorno.com/portfolio/web-taylor-swift-outfits-tstet-outfit-generator/" target="blank"><img src="https://ireneabongiorno.com/img/portfolio/web-taylor-swift-outfits-tstet-outfit-generator/hero.webp" width="300" height="auto" /></a>
+  <a href="https://github.com/ireneabongiorno/TSTET-outfit-generator"><img src="https://ireneabongiorno.com/img/portfolio/web-taylor-swift-outfits-tstet-outfit-generator/hero.webp" width="300" height="auto" /></a>
 </p>
