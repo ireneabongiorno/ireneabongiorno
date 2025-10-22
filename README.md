@@ -5,7 +5,7 @@ I’ve spent the last 8+ years collaborating across teams to bring digital solut
 <br/><br/>
 I’m ready for a role where I can keep learning, grow my skills, and work with up-to-date technologies. I can’t wait to tackle exciting projects and creative challenges.
 <br/><br/>
-‼️ Currently, I’m focused on learning more about web app development with JavaScript frameworks like React and Vue. I’d love to use this space to share what I’m learning and the challenges I run into along the way.
+‼️ Currently, I’m focused on learning more about web app development with JavaScript framework React. I’d love to use this space to share what I’m learning and the challenges I run into along the way.
 
 <hr>
 
