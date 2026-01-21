@@ -13,13 +13,6 @@ I’m ready for a role where I can work with up-to-date technologies, keep learn
 
 <hr>
 
-<h2>Contact Me</h2>
-<p>
-  <a href="https://bit.ly/CV_IreneBongiorno"><img title="My E-Mail" src="https://skillicons.dev/icons?i=gmail"/></a><a href="https://ireneabongiorno.com"><img title="My Website" src="https://skillicons.dev/icons?i=ros"/></a>
-</p>
-
-<hr>
-
 <h2>My Latest Project</h2>
 <p>
   <a href="https://github.com/ireneabongiorno/TSTET-outfit-generator"><img src="https://ireneabongiorno.com/img/portfolio/web-taylor-swift-outfits-tstet-outfit-generator/hero.webp" width="300" height="300" /></a>
