@@ -8,20 +8,19 @@ I’m ready for a role where I can work with up-to-date technologies, keep learn
 
 <h2>My CV</h2>
 <p>
-  <a href="https://bit.ly/CV_IreneBongiorno"><img src="https://skillicons.dev/icons?i=email" width="300" height="auto" /></a>
+  <a href="https://bit.ly/CV_IreneBongiorno"><img title="My E-Mail" src="https://skillicons.dev/icons?i=gmail"/></a><a href="https://ireneabongiorno.com"><img title="My Website" src="https://skillicons.dev/icons?i=ros"/></a>
 </p>
 
 <hr>
 
 <h2>Languages & Tools</h2>
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,less,wordpress,bootstrap,tailwind,javascript,react" /><br/>
-  <img src="https://skillicons.dev/icons?i=astro,git,github,vscode,eclipse,htmx,figma,ps,illustrator" />
+  <a href="https://ireneabongiorno.com"><img src="https://skillicons.dev/icons?i=html,css,sass,less,wordpress,bootstrap,tailwind,javascript,react,astro,git,github,vscode,eclipse,htmx,figma,ps,illustrator&perline=9" /></a><br/>
 </p>
 
 <hr>
 
 <h2>My latest Project</h2>
 <p>
-  <a href="https://github.com/ireneabongiorno/TSTET-outfit-generator"><img src="https://ireneabongiorno.com/img/portfolio/web-taylor-swift-outfits-tstet-outfit-generator/hero.webp" width="300" height="auto" /></a>
+  <a href="https://github.com/ireneabongiorno/TSTET-outfit-generator"><img src="https://ireneabongiorno.com/img/portfolio/web-taylor-swift-outfits-tstet-outfit-generator/hero.webp" width="300" height="300" /></a>
 </p>
