@@ -6,6 +6,13 @@ I’m ready for a role where I can work with up-to-date technologies, keep learn
 
 <hr>
 
+<h2>My CV</h2>
+<p>
+  <a href="https://bit.ly/CV_IreneBongiorno"><img src="https://skillicons.dev/icons?i=email" width="300" height="auto" /></a>
+</p>
+
+<hr>
+
 <h2>Languages & Tools</h2>
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,sass,less,wordpress,bootstrap,tailwind,javascript,react" /><br/>
